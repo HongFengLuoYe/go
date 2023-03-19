@@ -19,4 +19,6 @@ func main() {
 	fmt.Println(age, weight)
 	fmt.Println(reflect.TypeOf(float64(age)))
 	fmt.Println(reflect.TypeOf(age))
+
+	fmt.Println("hello world")
 }
